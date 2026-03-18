@@ -20,7 +20,7 @@ The goal is to demonstrate how I:
 
 The lab produces endpoint + network events and forwards them to a centralized SIEM where detections, triage, and investigation take place.
 
-![Home lab security architecture](/images/Homelab.svg)
+![Home lab security architecture](/images/Homelab.png)
 
 **Data flow:**
 1) Endpoint + firewall events are generated  
