@@ -1,0 +1,30 @@
+baseURL = "https://lorenzoswany.github.io/"
+languageCode = "en-us"
+title = "Lorenzo Swany — Website Portfolio"
+theme = "hugo-book"
+
+[params]
+  BookSection = "docs"
+  BookSearch = false
+
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 30
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Home Lab"
+    url = "/homelab/"
+    weight = 20
+
+
+
+
+
