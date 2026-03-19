@@ -39,7 +39,7 @@ To generate the activity, a PowerShell command was executed on the victim machin
 
 This action generated a Windows Security Event ID 4688, which recorded the execution of the PowerShell process and the associated command line.
 
-[![Powershell Execution](/images/PowerShellSim.png)](/images/PowerShellSim.png)
+[![Powershell Execution](/images/PowershellSim.png)](/images/PowershellSim.png)
 
 ---
 
