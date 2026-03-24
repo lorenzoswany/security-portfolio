@@ -4,13 +4,11 @@ weight: 1
 ---
 ## Profile
 
-I'm an IT professional with experience in systems support and infrastructure, currently working in endpoint support within a school district environment.
+I'm an IT professional with experience in network & systems support and a strong interest in Cybersecurity. I currently support two major sites within a large school district environment.
 
-I'm building a strong interest in SOC investigation, identity-driven risk, and cloud security fundamentals. The projects on this site document hands-on scenarios where I design detections, investigate alerts, and document findings in a SOC-style workflow.  covering attack progressions from initial access through execution and persistence.
+Through self-study, I'm building experience in SOC investigation, identity-driven risk, and cloud security fundamentals. The projects on this site are intended to document hands-on scenarios where I've designed detections, simulated investigations, and documented findings in a SOC-style workflow.  My work emphasizes attack progressions from initial access through execution and persistence. The goal is to create replicatable end-to-end scenarios: collecting relevant telemetry, analyzing anomalies, and communicating results & findings clearly.
 
-My work emphasizes end-to-end scenarios: collecting relevant telemetry, analyzing anomalies, and communicating investigation results clearly.
-
-I'm most interested in environments where investigation, clear communication, and disciplined thinking are central to day-to-day security work.
+I thrive in environments where passionate learning, investigation, clear communication, and disciplined thinking are central to day-to-day security work.
 
 ---
 
