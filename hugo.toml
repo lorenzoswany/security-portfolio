@@ -2,6 +2,7 @@ baseURL = "https://lorenzoswany.github.io/"
 languageCode = "en-us"
 title = "Lorenzo Swany — Website Portfolio"
 theme = "hugo-book"
+Google Analytics = "G-1RC67LZ2HB"
 
 [params]
   BookSection = "docs"
