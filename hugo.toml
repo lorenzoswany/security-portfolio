@@ -24,8 +24,3 @@ disableKinds = ["taxonomy", "term"]
     name = "Home Lab"
     url = "/homelab/"
     weight = 20
-
-
-
-
-
