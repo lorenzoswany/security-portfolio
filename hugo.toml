@@ -2,6 +2,7 @@ baseURL = "https://www.lorenzoswany.com/"
 languageCode = "en-us"
 title = "Lorenzo Swany — Website Portfolio"
 theme = "hugo-book"
+disableKinds = ["taxonomy", "term"]
 
 [params]
   BookSection = "docs"
