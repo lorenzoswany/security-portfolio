@@ -2,7 +2,8 @@
 title: "Profile"
 weight: 1
 ---
-## Profile
+
+# Profile
 
 I'm an IT professional with experience in network & systems support and a strong interest in Cybersecurity. I currently support two major sites within a large school district environment.
 

@@ -2,7 +2,7 @@
 title: "Security Portfolio Overview"
 ---
 
-## Security Portfolio Overview
+# Security Portfolio Overview
 
 This site documents a set of hands-on security projects focused on SOC investigation workflows, identity-driven risk, and cloud misconfiguration analysis.
 
